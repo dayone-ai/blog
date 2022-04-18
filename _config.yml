@@ -12,7 +12,7 @@ tags:
 show_hero: True
 menu:
   - title: Home
-    url: /
+    url: "https://dayone-ai.github.io"
   - title: Tags
     url: /tags
   - title: About
