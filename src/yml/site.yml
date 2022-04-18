@@ -1,26 +1,29 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
+name: Dayone
+title: Dayone blog
+description: This is the personal blog based on Jekflix. Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-show_hero: true
+  - AI
+  - computer science
+  - Essay
+  - 칼럼
+show_hero: True
 menu:
   - title: Home
     url: /
+  - title: Tags
+    url: /tags
   - title: About
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+  # - title: Feed
+  #   url: /feed.xml
+email: dayone.tech.official@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: dayonetechofficial
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xwkyqzvw
+paginate: 12
