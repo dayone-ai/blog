@@ -90,6 +90,8 @@ sass:
 
 # Plugins
 plugins:
+  - kramdown
+  - kramdown-parser-gfm
   - jekyll-paginate
   - jekyll-paginate-content
   - jekyll-katex
