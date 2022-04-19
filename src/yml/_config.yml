@@ -13,6 +13,8 @@
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: null
 highlighter: rouge
 permalink: /:title/
 collections:
