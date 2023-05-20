@@ -289,3 +289,18 @@ File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/
 ## License
 
 *Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
+
+## How to Add Blog post
+
+- run shell script to add post
+```
+./initpost.sh -c "Post Name"
+```
+- build blog page
+```
+bundel exec jekyll build
+```
+- start blog page locally
+```
+bundle exec jekyll serve
+```
