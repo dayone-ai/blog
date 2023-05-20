@@ -11,3 +11,5 @@ gem 'jekyll-katex'
 # group :jekyll_plugins do
 #     gem 'jekyll-katex'
 #   end
+
+gem "webrick", "~> 1.8"
